@@ -2,8 +2,6 @@ Laporan Implementasi Fuzzy Sugeno
 
 Nama: Dyah Kartika Damarsiwi
 NIM: P31.2024.02646
-Topik: Sistem Prediksi Produksi Menggunakan Fuzzy Sugeno
-Bahasa: Python (.ipynb - Jupyter Notebook)
 
 Deskripsi Singkat
 Penelitian ini bertujuan untuk memodelkan prediksi jumlah produksi berdasarkan tiga variabel input lingkungan kerja:
